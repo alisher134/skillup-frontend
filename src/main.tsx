@@ -4,7 +4,6 @@ import App from './App.tsx';
 import './index.scss';
 
 createRoot(document.getElementById('root')!).render(
-	dasdadasdad
 	<StrictMode>
 		<App />
 	</StrictMode>
